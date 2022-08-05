@@ -11,7 +11,7 @@ Caltrans, Data Scientist (Research Data Specialist III) based in West Los Angele
 5) Call
 6) GitHub 
 
-I am off every other Friday.
+I am off every other Friday, and my regular hours are 8:30-6.
 
 ## Who am I?
 
@@ -36,7 +36,7 @@ Delivering the reports/presentations in the rooms where decisions are made. Supp
 Help you think through metrics/indicators and deriving those variables; help you brainstorm cartography viz improvements; help you with your presentations and reports.
 
 ## How to support me at work together
-I am a visual learner and do best with written instructions or walk-throughs at first. I prefer to have running written meeting notes for reference later. On projects, I appreciate having a weekly or twice-weekly check-in meeting with specific deliverable expectations from everyone (even if these deliverables are just ideas or questions), and having uninterrupted time in between. I am less likely to watch video recordings of meetings on my own, but will as needed :).   
+I am a visual learner and do best with written instructions or walk-throughs at first. I prefer to maintain running written meeting notes for reference later. On projects, I appreciate having a weekly or twice-weekly check-in meeting with specific deliverable expectations from everyone (even if these deliverables are just ideas or questions), and having uninterrupted time in between. I am less likely to watch video recordings of meetings on my own, but will as needed :).   
 
 In the remote work environment, the social aspect of work is very important to me. Starting meetings with a "how are you doing" and a little small talk goes a long way!
 
