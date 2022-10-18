@@ -31,7 +31,7 @@ Become a trusted collaborator in delivering complex analyses that meet the momen
 ## You can lean on me to …
 I absolutely love helping to solve puzzles and unblock my teammates on analysis tasks! If you're stuck on a coding problem or need another person to brainstorm how to translate a user story or vague statute into something actionable don't hesitate to reach out. I'm never too busy and enjoy the comraderie.
 
-I'm also fairly knowledgaable about general transportation planning principles and processses, as well as GTFS data and how it is realized in our warehouse and tooling.
+I'm also fairly knowledgable about general transportation planning principles and processses, as well as GTFS data and how it is realized in our warehouse and tooling.
 
 ## How to support me as we work together
 I often like to jump right in and tackle a problem, but that doesn't mean I always get it right the first time. You can help support me by nudging me to take a step back and consider other choices, or talk through why I decided on a specific process.
