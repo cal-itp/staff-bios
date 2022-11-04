@@ -13,6 +13,7 @@ These can be a [great tool for  are great for remote teams](https://18f.gsa.gov/
 * [Eric Dasmalchi](./caltrans/benefits-delivery-decision-transformation/eric_dasmalchi.md)
 * [Amanda Ha](./caltrans/benefits-delivery-decision-transformation/amanda_ha.md)
 * [Katrina Kaiser](./caltrans/benefits-delivery-decision-transformation/katrina_kaiser.md)
+* [Julia Ma](./caltrans/benefits-delivery-decision-transformation/julia_ma.md)
 
 ## Contractors
 
