@@ -19,7 +19,7 @@ I prefer Slack and email. I generally use email for more thorough responses.
 ### Non-work
 
 
-I love to cook and have tea/coffee, and dabble in games and arts/crafts. Feel free to ask for any "hole in the wall" restaurants that I've enjoyed.
+I love to cook and have tea/coffee, and dabble in games and arts/crafts. Feel free to ask for any "hole in the wall" restaurants that I've enjoyed!
 
 
 ### Work
