@@ -19,3 +19,4 @@ These can be a [great tool for  are great for remote teams](https://18f.gsa.gov/
 
 ### Data Services / Jarvus
 * [Laurie Merrell](./contractors/jarvus/laurie_merrell.md)
+* [Soren Spicknall](./contractors/jarvus/soren_spicknall.md)
