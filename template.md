@@ -1,6 +1,6 @@
-# Name
+# [Name]
 
-## Title / Company 
+## [Title / Company] 
 We're a big mash up of remote Caltrans staff and contractors/consultants, so help give your teammates some context. In what city are you based?
 
 
