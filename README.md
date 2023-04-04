@@ -7,13 +7,11 @@ These can be a [great tool for  are great for remote teams](https://18f.gsa.gov/
 * [Hunter Owens](./caltrans/benefits-delivery-decision-transformation/hunter_owens.md)
 
 ## Analysts
-* [Natalie Amberg](./caltrans/benefits-delivery-decision-transformation/natalie_amberg.md)
-* [Ben Bressette](./caltrans/benefits-delivery-decision-transformation/ben_bressette.md)
-* [Tiffany Chu](./caltrans/benefits-delivery-decision-transformation/tiffany_chu.md)
-* [Eric Dasmalchi](./caltrans/benefits-delivery-decision-transformation/eric_dasmalchi.md)
-* [Amanda Ha](./caltrans/benefits-delivery-decision-transformation/amanda_ha.md)
-* [Katrina Kaiser](./caltrans/benefits-delivery-decision-transformation/katrina_kaiser.md)
-* [Julia Ma](./caltrans/benefits-delivery-decision-transformation/julia_ma.md)
+* [Natalie Amberg](./caltrans/data-digital-services/natalie_amberg.md)
+* [Tiffany Chu](./caltrans/data-digital-services/tiffany_chu.md)
+* [Eric Dasmalchi](./caltrans/data-digital-services/eric_dasmalchi.md)
+* [Amanda Ha](./caltrans/data-digital-services/amanda_ha.md)
+* [Katrina Kaiser](./caltrans/data-digital-services/katrina_kaiser.md)
 
 ## Contractors
 
