@@ -1,6 +1,6 @@
 # Christian Suyat
 
-## [Title / Company] 
+## Title / Company 
 I am a Data Analyst (Research Data Analyst II) at Caltrans Division of Data and Digital Services. I am based in Sacramento
 
 ## Contact Preference
