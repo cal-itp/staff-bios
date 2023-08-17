@@ -16,7 +16,7 @@ Been with Caltrans for 6 years. First under "Division of Engineering Services" a
 
 ## Goals
 ### Learning goals
-I've always wanted to learn python and SQL and pratcical analytical techniques. Also to learn github.
+I've always wanted to learn python and SQL and pratcical analytical techniques. Also to learn github and learn new workflows to approaching problems.
 
 ### Career goals
 Honestly, I want to become really proficient in python and SQL, like how I am with Excel, so I can assist other divisions in Caltrans.
