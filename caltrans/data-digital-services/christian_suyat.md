@@ -1,10 +1,10 @@
 # Christian Suyat
 
 ## Title / Company 
-I am a Data Analyst (Research Data Analyst II) at Caltrans Division of Data and Digital Services. I am based in Sacramento
+I am a Data Analyst (Research Data Analyst II) at Caltrans Division of Data and Digital Services. I am based in Sacramento.
 
 ## Contact Preference
-Slack, Teams and DOT email. My regular hours are 8am-430pm
+Slack, Teams and DOT email. My regular hours are Monday through Friday, 8am-430pm.
 
 ## Who am I?
 
@@ -12,14 +12,14 @@ Slack, Teams and DOT email. My regular hours are 8am-430pm
 Live in Sacramento. I love playing with my dog, Benji, and cat, Sage. My Fiancee and I love going to breweries, cafes and boba tea shops. 
 
 ### Work
-Been with Caltrans for 6 years. First under "Division of Engineering Services" as a Staff Services Analyst. Then under "Office of Civil Rights" as an Associate Govenmental Program Analyst. And just previously under "Division of Equipment". I am very comfortable working in Excel and Power BI, but im still very curious to learn new platforms
+Been with Caltrans for 6 years. First under "Division of Engineering Services" as a Staff Services Analyst. Then under "Office of Civil Rights" as an Associate Govenmental Program Analyst. And just previously under "Division of Equipment". I am very comfortable working in Excel and Power BI, but im very excited to learn new platforms.
 
 ## Goals
 ### Learning goals
 I've always wanted to learn python and SQL and pratcical analytical techniques.
 
 ### Career goals
-Honestly, I want to become really proficient in python and SQL,like how I am with Excel, so I can assist others.
+Honestly, I want to become really proficient in python and SQL, like how I am with Excel, so I can assist other divisions in Caltrans.
 
 ## You can lean on me to …
 To be personable! I love interacting with co-workers and am always open to have conversations and share work experinces. I have been around other divisions in Caltrans and love sharing what I know.
@@ -32,7 +32,7 @@ I just bought a house and I'm about to get married, so there may be times im awa
 
 
 ## Ways of working together
-Im comfortable with DMs, voice and video calls.
+Im comfortable with DMs on Slack or Teams, voice and video calls.
 
 ## Teamwork preferences
 I have no trouble speaking up in a group setting, just as long as theres an opportunity to speak. I dont like trying to compete for openings in a conversation. I do appreciate when teammates ask for my opinions in meetings. 
