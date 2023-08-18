@@ -9,7 +9,7 @@ Slack, Teams and DOT email. My regular hours are Monday through Friday, 8am-430p
 ## Who am I?
 
 ### Non-work
-Live in Sacramento. I love playing with my dog, Benji, and cat, Sage. My Fiancee and I love going to breweries, cafes and boba tea shops. 
+Live in Sacramento. I love playing with my dog, Benji, and cat, Sage. My Fiancee and I love going to breweries, cafes and boba tea shops. Recently I started brewing coffee at home.
 
 ### Work
 Been with Caltrans for 6 years. First under "Division of Engineering Services" as a Staff Services Analyst. Then under "Office of Civil Rights" as an Associate Govenmental Program Analyst. And just previously under "Division of Equipment". I am very comfortable working in Excel and Power BI, but im very excited to learn new platforms.
