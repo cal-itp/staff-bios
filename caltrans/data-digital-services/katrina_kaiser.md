@@ -11,7 +11,7 @@ Caltrans, Data Scientist (Research Data Specialist III) based in West Los Angele
 5) Call
 6) GitHub 
 
-I am off every other Friday, and my regular hours are 8:30-6.
+I am off every other Friday (B), and my regular hours are 8-5:30.
 
 ## Who am I?
 
@@ -23,7 +23,7 @@ My main after-hours hobby is mobility advocacy volunteering (public transit + ac
 ### Work/Education
 My background is in statistical analysis/research. Caltrans is my first public sector job, and my first paid experience with transportation data. Before this, I spent 4 years in academia doing health policy research at [USC](https://healthpolicy.usc.edu/) doing analysis for journal articles and whitepapers, and 3 years as an analyst in the private sector at an employment litigation consulting firm. I have an MS in GIS (using Esri products) and an MA in Economics. 
 
-My native programming language is SAS, and my second language is R; I have exposure to Python through various workshops and grad school and am looking forward to learning more. 
+My native programming language is SAS, and my second language is R; before this role I had exposure to Python through various workshops and grad school and am looking forward to learning more. 
 
 ## Goals
 ### Learning goals
@@ -45,4 +45,4 @@ Above all else, I'm here to be helpful. I am not shy about asking clarifying que
 
 I would rather take a little time to thoughtfully write ideas than come up with things on the fly. If the words in my sentences come out in the wrong order and something is confusing, please also let me know.  
 
-I prefer feedback verbally or in writing, and delivered 1:1. Please give me specific actions to take for improvement.
+I prefer feedback verbally or in writing, and delivered 1:1 or in small groups. Please give me specific actions to take for improvement.
