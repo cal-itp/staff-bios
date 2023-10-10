@@ -13,6 +13,7 @@ These can be a [great tool for  are great for remote teams](https://18f.gsa.gov/
 * [Amanda Ha](./caltrans/data-digital-services/amanda_ha.md)
 * [Katrina Kaiser](./caltrans/data-digital-services/katrina_kaiser.md)
 * [Christian Suyat](./caltrans/data-digital-services/christian_suyat.md)
+* [Shweta Adhikari](./caltrans/data-digital-services/shweta_adhikari.md)
 
 ## Contractors
 
