@@ -1,7 +1,7 @@
 # Name
 
 ## Title / Company 
-Caltrans, Data Analyst (Research Data Analyst II) living in Palms, Los Angeles, CA.
+Caltrans, Transit Data Scientist (Research Data Specialist) living in Treasure Island, San Francisco, CA.
 
 
 ## Contact Preference
