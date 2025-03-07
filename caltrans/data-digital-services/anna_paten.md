@@ -4,7 +4,7 @@
 I am a Research Data Analyst II at the Caltrans Division of Data and Digital Services. I am based in Los Angeles.
 
 ## Contact Preference
-Teams and DOT email. My regular hours are Monday through Friday, 8:30am-6pm.
+Teams and DOT email. My regular hours are Monday through Friday, 8:30am-6pm, taking alternate Fridays off on a Friday A schedule.
 
 ## Who am I?
 
