@@ -1,7 +1,7 @@
 # Christian Suyat
 
 ## Title / Company 
-I am a Data Analyst (Research Data Analyst II) at Caltrans Division of Data and Digital Services. I am based in Sacramento.
+I am a Data Analyst (Research Data Analyst II) in the Data Science Branch within the Caltrans Division of Data and Digital Services. I am based in Sacramento.
 
 ## Contact Preference
 Teams and DOT email. My regular hours are Monday through Friday, 8am-430pm.
@@ -9,10 +9,10 @@ Teams and DOT email. My regular hours are Monday through Friday, 8am-430pm.
 ## Who am I?
 
 ### Non-work
-I live in Sacramento with my Wife, my dog Benji and cat Sage. We love going on walks or staying at home relaxing
+I live in Sacramento with my Wife, my dog Benji and cat Sage. We love going on walks but are usually staying at home relaxing.
 
 ### Work
-Been with Caltrans for 7 years. First under "Division of Engineering Services" as a Staff Services Analyst. Then under "Office of Civil Rights" as an Associate Govenmental Program Analyst. And just previously under "Division of Equipment". I am very comfortable working in Excel and Power BI, but i am still very excited to learn new platforms.
+I worked in the following Divisions: Engineering Services, Office of Civil Rights, Equipment. And held the Staff Services Analyst and Associate Governmental Program Analyst classifications. I used a lot of Excel and Power BI in those previous positions and I am still very excited to learn new data tools.
 
 ## Goals
 ### Learning goals
@@ -25,7 +25,7 @@ I still want to become really proficient in python and deploying data products, 
 To be personable! I love interacting with co-workers and am always open to have conversations and share work experinces. I have been around other divisions in Caltrans and love sharing what I know.
 
 ## How to support me as we work together
-Im still learning all these platforms and tool for the first time. As long as we can keep that door of communication open and can be patient with my inexperience, we good.
+Im still learning all these platforms and tools for the first time. As long as we can keep that door of communication open and can be patient with my inexperience, we good.
 
 ## How to support me as a person
 As long as we can still joke around and while getting work done, thats perfect for me.
